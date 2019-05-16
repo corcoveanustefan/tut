@@ -1,13 +1,1 @@
-[
-  {
-    "name": "VPE1-P04317",
-    "score:1. AVC/1 AVC": 7.261
-  },
-  {
-    "name": "VPE1-P28114",
-    "score:1. AVC/1 AVC": 5.919
-  },
-  {
-    "name": "VPE1-P00079",
-    "score:1. AVC/1 AVC": 8.000
-  }]
+[{"name": "VPE1-P04317","score:1. AVC/1 AVC": 7.261},{"name": "VPE1-P28114","score:1. AVC/1 AVC": 5.919},{"name": "VPE1-P00079","score:1. AVC/1 AVC": 8.000}]
